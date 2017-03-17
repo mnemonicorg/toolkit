@@ -1,3 +1,9 @@
 ---
-title: "Step 1"
+title: "Step 3: Verify the locaiotn of the video"
 ---
+
+Each video has gone through basic geolocation to verify that it has been captured in Syria. More indepth geolocation was conducted in order to verify that videos from this dataset were captured in Aleppo. This has been done by comparing reference points (e.g. buildings, mountains ranges, trees, minarets) with satellite imagery from Google Earth, Microsoft Bing, and DigitalGlobe, as well as Google Earth satellite imagery, Microsoft Bing satellite imagery, DigOpenStreetMap imagery and geolocated photographs from Panoramio.
+
+In addition to this, the Syrian Archive has referenced the Arabic spoken in videos against known regional accents and dialects within Syria to further verify location of videos. When possible, the Syrian Archive has contacted the source directly in order to confirm the location, and cross referenced video evidence by consulting existing networks of journalists operating inside and outside Syria to confirm the locations of specific incidents.
+
+#expand on this 
