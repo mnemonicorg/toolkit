@@ -1,3 +1,15 @@
 ---
-title: "Step 1"
+title: "Step 4: Preserve integrity of data"
 ---
+Collect, store, hash and timestamp video evidence from verified sources
+To ensure that the original content is not lost due to removal on corporate platforms, Contentvisual evidence sent directly from verified sources and from credible social media channels is scraped and stored securely on external backend servers (to ) beforeuntil it goes through basic verification.
+
+This ensures visual evidence originally uploaded online is not lost due to removal on corporate platforms. Videos are hashed with (SHA256) and timestamped to ensure they are not tampered with after scraped from social media platforms or taken directly from sources.
+
+#Collect
+
+#Store
+
+#Hash
+
+#Timestamp 
